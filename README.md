@@ -21,10 +21,13 @@
   </a>
 
   </div>
+  
   <br>
   <em>App Mobile Chat Gemini IA</em>
   <br>
 </p>
+
+# Chat App Gemini 2.5 Mobile ✨
 
 ## Introduction
 
@@ -159,6 +162,7 @@ Thank you to all the people who already contributed to Vue!
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
 
 
 
