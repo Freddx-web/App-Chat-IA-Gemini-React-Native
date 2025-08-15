@@ -1,7 +1,7 @@
 <p align="center">
   <div align="center">
   <a href="#">
-    <img src="./assets/icons8-expo-96.png">
+    <img src="./assets/icons8-expo-blue-96.png">
   </a>
 
   <a href="#">
@@ -151,5 +151,6 @@ Thank you to all the people who already contributed to Vue!
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
 
 
