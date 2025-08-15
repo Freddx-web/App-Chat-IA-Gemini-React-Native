@@ -1,17 +1,26 @@
 <p align="center">
   <div align="center">
   <a href="#">
-    <img src="./public/icons8-css-96.png">
+    <img src="./public/icons8-expo-96.png">
   </a>
-  <img src="./public/icons8-vuejs-240.png" alt="vue.js"/>
+
+  <a href="#">
+    <img src="./public/icons8-typescript-96.png">
+  </a>
+  
+  <img src="./public/icons8-gemini-ai-240.png" alt="gemini.js"/>
   
   <a href="#">
-    <img src="./public/icons8-html-96.png">
+    <img src="./public/icons8-react-native-96.png">
+  </a>
+  
+  <a href="#">
+    <img src="./public/icons8-smartphone-94.png">
   </a>
     
   </div>
   <br>
-  <em>Login template with Vue.js - Javascript </em>
+  <em>App Mobile Chat Gemini IA</em>
   <br>
 </p>
 
@@ -142,3 +151,4 @@ Thank you to all the people who already contributed to Vue!
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
