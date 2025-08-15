@@ -1,21 +1,21 @@
 <p align="center">
   <div align="center">
   <a href="#">
-    <img src="./public/icons8-expo-96.png">
+    <img src="./assets/icons8-expo-96.png">
   </a>
 
   <a href="#">
-    <img src="./public/icons8-typescript-96.png">
+    <img src="./assets/icons8-typescript-96.png">
   </a>
   
-  <img src="./public/icons8-gemini-ai-240.png" alt="gemini.js"/>
+  <img src="./assets/icons8-gemini-ai-240.png" alt="gemini.js"/>
   
   <a href="#">
-    <img src="./public/icons8-react-native-96.png">
+    <img src="./assets/icons8-react-native-96.png">
   </a>
   
   <a href="#">
-    <img src="./public/icons8-smartphone-94.png">
+    <img src="./assets/icons8-smartphone-94.png">
   </a>
     
   </div>
@@ -151,4 +151,5 @@ Thank you to all the people who already contributed to Vue!
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
 
