@@ -1,22 +1,25 @@
 <p align="center">
   <div align="center">
-  <a href="#">
-    <img src="./assets/icons8-expo-blue-96.png">Expo Go
-  </a>
+    
+  <div align="center">
+      <img src="./assets/icons8-expo-blue-96.png">Expo Go
+  </div>
 
-  <a href="#">
-    <img src="./assets/icons8-typescript-96.png">Typescript
-  </a>
+  <div align="center">
+      <img src="./assets/icons8-typescript-96.png">Typescript
+  </div>
   
   <img src="./assets/icons8-gemini-ai-240.png" alt="gemini.js"/>Gemini IA
   
-  <a href="#">
+  <div align="center">
     <img src="./assets/icons8-react-native-96.png">React Native
-  </a>
+  </div>
+    
+  <div align="center">
+    <img src="./assets/icons8-smartphone-94.png"
+  </div>
+  </div>
   
-  <a href="#">
-    <img src="./assets/icons8-smartphone-94.png">Smartphone
-  </a>
     
   </div>
   <br>
@@ -151,6 +154,7 @@ Thank you to all the people who already contributed to Vue!
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
 
 
 
